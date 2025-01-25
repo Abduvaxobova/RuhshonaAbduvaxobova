@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/Abduvaxobova/old-profile-readme/blob/master/name.svg?short_path=560cd0b" alt="Abduvaxobova Ruhshona" />
+  <img src="https://github.com/Abduvaxobova/old-profile-readme/blob/master/name.svg" alt="Abduvaxobova Ruhshona" />
 </h1>
 
 Hi there! I'm Ruhshona, a 20-year-old passionate full-stack developer who loves solving problems and building cool projects. 🌟  
