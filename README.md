@@ -1,28 +1,21 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Abduvaxobova Ruhshona" />
 </h1>
 
-## Hey! 👋
-I'm Marton, a 20 years old web developer from Hungary.
+Hi there! I'm Ruhshona, a 20-year-old passionate full-stack developer who loves solving problems and building cool projects. 🌟  
+## 💻 Skills  
+Here are some of the technologies I enjoy working with:  
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap  
+- **Backend**: PHP, Laravel  
+- **Databases**: MySQL, SQLite  
 
-- 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet
+## ✨ Fun Facts  
+- 🌍 I’m always exploring new technologies and expanding my skill set.  
+- 🎨 I love designing user-friendly interfaces and writing clean code.  
+- 📚 Currently learning advanced Laravel features.
 
-- 👨‍💻 Working at [Community Labs](https://communitylabs.com) ([We raised $30M!](https://www.bloomberg.com/news/articles/2022-09-08/teenage-founder-raises-30-million-for-crypto-startup-community-labs?utm_medium=email&utm_source=newsletter&utm_term=220908&utm_campaign=author_22684653#xj4y7vzkg&leadSource=uverify%20wall))
+## 📫 How to Reach Me  
+- Email: abduvaxobovar@gmail.com  
+- GitHub: [github.com/Abduvaxobova](https://github.com/Abduvaxobova)  
 
-- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
-
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
-
-+ a lot more ;)
-
-## Skills
-- 👨‍💻 TypeScript, JavaScript, Lua, C, Go, PHP, C#, etc...
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
-+ a lot more :D
-
-## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](./) on Discord
+Thanks for stopping by! 😊 Feel free to explore my repositories or get in touch! 🚀  
