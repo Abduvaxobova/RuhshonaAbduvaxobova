@@ -2,7 +2,7 @@
   <img src="https://github.com/Abduvaxobova/old-profile-readme/blob/master/name.svg" alt="Abduvaxobova Ruhshona" />
 </h1>
 
-Hi there! I'm Ruhshona, a 20-year-old passionate full-stack developer who loves solving problems and building cool projects. 🌟  
+Hi there! I'm Ruhshona🌟  
 ## 💻 Skills  
 Here are some of the technologies I enjoy working with:  
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap  
