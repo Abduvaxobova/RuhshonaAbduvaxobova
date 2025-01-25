@@ -25,5 +25,5 @@ Thanks for stopping by! 😊 Feel free to explore my repositories or get in touc
 <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>  <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> 
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma(https://github.com/Abduvaxobova)"/>
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark(https://github.com/Abduvaxobova)"/>
+<img src="https://github.com/Abduvaxobova.vercel.app/?username=ryo-ma(https://github.com/Abduvaxobova)"/>
+<img src="https://github.com/Abduvaxobova.vercel.app/?username=ryo-ma&theme=onedark(https://github.com/Abduvaxobova)"/>
