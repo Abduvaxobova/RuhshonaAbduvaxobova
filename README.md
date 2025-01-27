@@ -5,8 +5,8 @@
 Hi there! I'm Ruhshona🌟  
 ## 💻 Skills  
 Here are some of the technologies I enjoy working with:  
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap  
-- **Backend**: PHP, Laravel  
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: PHP, Laravel    
 - **Databases**: MySQL, SQLite  
 
 ## ✨ Fun Facts  
